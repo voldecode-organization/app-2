@@ -5,7 +5,8 @@ export default function Counter() {
 
   return (
     <section>
-      <h2>Counter</h2>
+      <p>Counter Component</p>
+      <p>Current count: {count}</p>
       <div>
         <button onClick={() => setCount(count + 1)}>Increment</button>
         <span>{count}</span>
