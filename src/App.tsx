@@ -7,7 +7,8 @@ function App() {
     <main>
       <Header />
       <section>
-        <h2>Lorem ipsum dolor seit</h2>
+        <h2>It's new title in this section!</h2>
+        <h3>I need to add a subtitle</h3>
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, alias?
         </p>
