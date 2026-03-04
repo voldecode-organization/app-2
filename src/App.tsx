@@ -6,7 +6,15 @@ function App() {
   return (
     <main>
       <Header />
-      <h1>Welcome to React with TypeScript!</h1>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum, alias?
+      </p>
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores
+        aperiam, itaque ut saepe omnis tempore necessitatibus ex doloremque
+        repudiandae maxime? Eveniet eius dicta temporibus voluptates est ut
+        similique reiciendis harum!
+      </p>
       <Counter />
     </main>
   )
