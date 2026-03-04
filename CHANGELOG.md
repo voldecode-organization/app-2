@@ -1,1 +1,2 @@
 - (#2) - feature: add header (CU0002)
+- (#1) - feature: clear app default return and add counter component (CU: 0001)
